@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    color: rgb(129, 18, 20);
+    font-size: 150px;
+    text-align: center;
+    margin-top: 300px;
+}
